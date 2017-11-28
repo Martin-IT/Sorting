@@ -1,1 +1,20 @@
-# Sorting
+# Sorting algorithms
+
+Quicksort (double-ended) (O(n log n))
+Quicksort (sliding) (O(n log n))
+Heapsort (O(n log n))
+Shell sort (~O(n1.3))
+Comb sort (~O(n2))
+Rotation merge sort (~O(n2))
+Insertion sort (with binary search) (O(n2))
+Insertion sort (O(n2))
+Bubble sort (O(n2))
+Cocktail sort (O(n2))
+Gnome sort (O(n2))
+Pancake sort (O(n2))
+Quasi-pancake sort (O(n2))
+Selection sort (O(n2))
+Stooge sort (O(n2.71))
+Stupid sort (O(n3))
+Bozo sort (~O(n3 log n))
+Slowsort (O(nlog n))
